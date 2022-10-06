@@ -1,1 +1,1 @@
-This directory contain tasks about shell Permission and Ownership
+This directory contain tasks about DevOps, Bash, Shell Permission & Ownership
