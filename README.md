@@ -1,1 +1,1 @@
-This repository contain task on Shell, difference between shell and terminal, the shell prompt 
+The repository was created for the purpose of ALX Training. It contains directories each corresponding to a system engineering or DevOps project. These projects are part of the ALX Africa curriculum. In these projects, the basics of the Linux Shell, Bash commands, Bash scripting was treated and I learn by doing it myself which is always to Github on almost daily basis. 
