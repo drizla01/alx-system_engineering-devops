@@ -1,1 +1,3 @@
-The file in this directory prints the absolute working directory
+This Directory contains a tasks about the basics of shell commands assigned to me in ALX Africa 
+Software Engineering training to complete in a day,basic commands were used as well as manipulation 
+of these command to satisfy the basic purpose of the task in question.
